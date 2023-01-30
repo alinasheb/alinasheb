@@ -5,6 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=alinasheb&style=flat-square&color=lightgrey" alt="" />
 </div>
 <h1> About Me :</h1>
+<p>:seedling: I’m  a Programming rookie</p>
+<p>:mortar_board: I’m a student of Yandex Practicum</p>
+<p>:zap: I’m currently learning JavaScript and React</p>
+<p>:book: I also like literature, reading and J.R.R. Tolkin</p>
+
 <h2> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 ### :hammer_and_wrench: Languages and Tools :
