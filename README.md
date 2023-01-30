@@ -28,3 +28,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alinasheb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinasheb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :e-mail: Where to find me :
+
+[![Instagram Badge](https://img.shields.io/badge/-alina.sheb-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/alina.sheb?igshid=ZmZhODViOGI=)](https://instagram.com/alina.sheb?igshid=ZmZhODViOGI=)
+[![Telegram Badge](https://img.shields.io/badge/-@AlinaSheb-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/AlinaSheb)](https://t.me/AlinaSheb)
+[![Gmail Badge](https://img.shields.io/badge/-alinashebalkina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](alinashebalkina@gmail.com)
+
