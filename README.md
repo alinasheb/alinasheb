@@ -37,6 +37,6 @@
 
 ### :e-mail: Where to find me :
 [![Telegram Badge](https://img.shields.io/badge/-@AlinaSheb-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/AlinaSheb)](https://t.me/AlinaSheb)
-[![Gmail Badge](https://img.shields.io/badge/-alinashebalkina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:alinashebalkina@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alinashebalkina62@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:alinashebalkina62@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-alina.sheb-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/alina.sheb?igshid=ZmZhODViOGI=)](https://instagram.com/alina.sheb?igshid=ZmZhODViOGI=)
 
